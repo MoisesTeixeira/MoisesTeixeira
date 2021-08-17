@@ -6,11 +6,16 @@
 - 🌱 I’m currently learning java 
 - ⚡ Fun fact: O ponto inicial da minha decisão em se tornar programador, foi quando eu percebi, que realmente eu estava adquirindo conhecimento deste mundo dev.
 
+##
+
  <div>
   <a href="https://github.com/MoisesTeixeira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MoisesTeixeira&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoisesTeixeira&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
+ 
+ ##
+ 
 <div style="display: inline_block"><br>
   <img align="center" alt="Mois-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Mois-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
