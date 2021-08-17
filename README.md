@@ -1,12 +1,10 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning  java
-- ⚡ Fun fact:  O ponto inicial da minha decisão em se tornar programador, foi quando eu  percebi  que realmente eu estava adquirindo conhecimento , deste mundo dev.
-
-
 ## Welcome to my profile
 
 
+- 🌱 I’m currently learning java 
+- ⚡ Fun fact: O ponto inicial da minha decisão em se tornar programador, foi quando eu percebi, que realmente eu estava adquirindo conhecimento deste mundo dev.
 
  <div>
   <a href="https://github.com/MoisesTeixeira">
