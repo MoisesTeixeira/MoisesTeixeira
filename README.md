@@ -3,7 +3,7 @@
 ## Welcome to my profile
 
 
-## - 🌱 I’m currently learning javascript
+## - 🌱 I’m currently learning HTML CSS and JavaScript
 
  <div>
   <a href="https://github.com/MoisesTeixeira">
