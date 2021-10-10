@@ -39,7 +39,7 @@
   <img align="center" alt="Mois-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <hr>
   <img align="center" alt="Mois-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-   <img align="center" alt="Mois-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Mois-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
  
 <hr>
@@ -51,5 +51,5 @@
 </div>
 	
 <hr>
-
-<img src="https://komarev.com/ghpvc/?username=MoisesTeixeira-github-username&color=blueviolet" alt="MoisesTeixeira">
+	
+![](https://komarev.com/ghpvc/?username=MoisesTeixeira&color=blueviolet)
