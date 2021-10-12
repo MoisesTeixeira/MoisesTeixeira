@@ -19,7 +19,6 @@
 <hr>
 <hr>
 <hr>
-<hr>
 
 <div align="center">
   <a href="https://github.com/MoisesTeixeira">
@@ -50,7 +49,3 @@
 <div align="center"> 
   <a href="https://www.linkedin.com/in/moisesteixeira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-	
-<hr>
-	
-![](https://komarev.com/ghpvc/?username=MoisesTeixeira&color=blueviolet)
